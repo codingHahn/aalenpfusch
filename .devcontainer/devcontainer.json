@@ -1,0 +1,7 @@
+{
+  "name": "tex",
+  "image": "texlive/texlive:latest-full",
+  "customizations": {
+    "jetbrains" : {"backend": "IntelliJ"},
+  }
+}
